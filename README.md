@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - 👨‍💻   I'm working as a **Senior Application Engineer** at **[Mendix Technology]**
 - ⚙️    I love to code in **PHP**, **Python**
 - ☁️    Cloud Passionate
-- 🔗   I'm Blockchain passionate
 - 🏳️‍🌈   He/Him
