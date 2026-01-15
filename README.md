@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 -->
 ### Hi there! I'm Giulio 👋
 
-- 👨‍💻   I'm working as a **Senior Application Engineer** at **[Mendix Technology]**
-- ⚙️    I love to code in **PHP**, **Python**
-- ☁️    Cloud Passionate
-- 🏳️‍🌈   He/Him
+- ⚙️   I love to code in **PHP**, **Python**, and exploring more
+- ☁️   AI, Cloud, and Security Passionate
