@@ -13,6 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there! I'm Giulio 👋
-
-- ⚙️   I love to code in **PHP**, **Python**, and exploring more
-- ☁️   AI, Cloud, and Security Passionate
